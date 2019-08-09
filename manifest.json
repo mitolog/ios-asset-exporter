@@ -1,0 +1,7 @@
+{
+  "name": "ios asset exporter",
+  "id": "741602611676198347",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
